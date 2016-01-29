@@ -116,7 +116,7 @@ safe: false
 highlighter: pygments
 title: 庙坝中学公文附件
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: kunka
+theme: slate
 disqusname: 
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
