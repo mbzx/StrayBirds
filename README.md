@@ -73,7 +73,7 @@ StrayBirds
 我们的评论系统使用的是 [Disqus](https://disqus.com/)，如果你想在这份博客模板中使用，需要先去注册一下，然后得到一个用户名，例如 minixalpha。然后在 `_config.yml` 中将 disqusname 修改为 minixalpha。
 
 **千万注意: 如果你开启评论系统一定要修改这个值，不然就评论到我的评论系统中去了**
-
+**去掉评论，就禁用这个文件_includes/comments.ext**
 ### 添加文章
 
 在 `_post` 目录下添加形如 `2014-10-26-title.md` 的文章，用 markdown 格式
