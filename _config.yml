@@ -73,8 +73,8 @@ author:
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
-  - class: icon-rss
-    url: /atom.xml
+ # - class: icon-rss
+ #   url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com
   - class: icon-github-alt
